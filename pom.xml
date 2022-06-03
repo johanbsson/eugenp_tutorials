@@ -326,7 +326,7 @@
                 <module>parent-boot-1</module>
                 <module>parent-boot-2</module>
                 <module>parent-spring-4</module>
-                <!--                <module>parent-spring-5</module>-->
+                <module>parent-spring-5</module>
                 <module>parent-java</module>
 
                 <!--                <module>akka-http</module>-->
@@ -513,7 +513,6 @@
                 <!--                <module>quarkus-extension</module>-->
 
                 <!--                <module>rabbitmq</module>-->
-                <!-- <module>raml</module> --> <!-- Not a maven project -->
                 <!--                <module>ratpack</module>-->
                 <!--                <module>reactor-core</module>-->
                 <module>resteasy</module>
@@ -532,6 +531,124 @@
 
                 <!--                From second-->
                 <module>testing-modules</module>
+
+<!--                <module>saas</module>-->
+<!--                <module>software-security/sql-injection-samples</module>-->
+
+<!--                <module>spark-java</module>-->
+<!--                <module>spf4j</module>-->
+
+<!--                <module>spring-4</module>-->
+
+<!--                <module>spring-5</module>-->
+<!--                <module>spring-5-data-reactive</module>-->
+<!--                <module>spring-5-reactive</module>-->
+<!--                <module>spring-5-reactive-2</module>-->
+<!--                <module>spring-5-reactive-3</module>-->
+<!--                <module>spring-5-reactive-client</module>-->
+<!--                <module>spring-5-reactive-oauth</module>-->
+<!--                <module>spring-5-reactive-security</module>-->
+<!--                <module>spring-5-webflux</module>-->
+<!--                <module>spring-5-webflux-2</module>-->
+<!--                <module>spring-reactive</module>-->
+
+<!--                <module>spring-activiti</module>-->
+<!--                <module>spring-akka</module>-->
+<!--                <module>spring-amqp</module>-->
+<!--                <module>spring-aop</module>-->
+<!--                <module>spring-aop-2</module>-->
+<!--                <module>spring-apache-camel</module>-->
+
+<!--                <module>spring-batch</module>-->
+<!--                <module>spring-batch-2</module>-->
+<!--                <module>spring-bom</module>-->
+<!--                <module>spring-boot-modules</module>-->
+<!--                <module>spring-boot-rest</module>-->
+
+<!--                <module>spring-caching</module>-->
+<!--                <module>spring-caching-2</module>-->
+
+<!--                <module>spring-cloud-modules</module>-->
+<!--                <module>spring-cloud-bus</module>-->
+<!--                <module>spring-cloud-data-flow</module>-->
+
+<!--                <module>spring-core</module>-->
+<!--                <module>spring-core-2</module>-->
+<!--                <module>spring-core-3</module>-->
+<!--                <module>spring-core-4</module>-->
+<!--                <module>spring-core-5</module>-->
+<!--                <module>spring-cucumber</module>-->
+
+<!--                <module>spring-di</module>-->
+<!--                <module>spring-di-2</module>-->
+<!--                <module>spring-di-3</module>-->
+<!--                <module>spring-drools</module>-->
+
+<!--                <module>spring-ejb</module>-->
+<!--                <module>spring-exceptions</module>-->
+
+<!--                <module>spring-freemarker</module>-->
+
+<!--                <module>spring-integration</module>-->
+
+<!--                <module>spring-jenkins-pipeline</module>-->
+<!--                <module>spring-jersey</module>-->
+<!--                <module>spring-jinq</module>-->
+<!--                <module>spring-jms</module>-->
+
+<!--                <module>spring-kafka</module>-->
+<!--                <module>spring-katharsis</module>-->
+
+<!--                <module>spring-mobile</module>-->
+<!--                <module>spring-mockito</module>-->
+<!--                <module>spring-native</module>-->
+<!--                <module>spring-protobuf</module>-->
+<!--                <module>spring-quartz</module>-->
+
+<!--                <module>spring-reactor</module>-->
+<!--                <module>spring-remoting</module>-->
+<!--                <module>spring-roo</module>-->
+
+<!--                <module>spring-scheduling</module>-->
+<!--                <module>spring-security-modules</module>-->
+<!--                <module>spring-shell</module>-->
+<!--                <module>spring-sleuth</module>-->
+<!--                <module>spring-soap</module>-->
+<!--                <module>spring-spel</module>-->
+<!--                <module>spring-state-machine</module>-->
+<!--                <module>spring-static-resources</module>-->
+<!--                <module>spring-swagger-codegen</module>-->
+
+<!--                <module>spring-threads</module>-->
+
+<!--                <module>spring-vault</module>-->
+<!--                <module>spring-vertx</module>-->
+
+<!--                <module>spring-web-modules</module>-->
+<!--                <module>spring-webflux-amqp</module> &lt;!&ndash; long &ndash;&gt;-->
+<!--                <module>spring-websockets</module>-->
+
+<!--                <module>static-analysis</module>-->
+<!--                <module>stripe</module>-->
+<!--                <module>struts-2</module>-->
+
+<!--                <module>tensorflow-java</module>-->
+                <module>testing-modules</module>
+
+<!--                <module>twilio</module>-->
+<!--                <module>twitter4j</module>-->
+
+
+<!--                <module>vertx</module>-->
+<!--                <module>vertx-and-rxjava</module>-->
+<!--                <module>video-tutorials</module>-->
+<!--                <module>vraptor</module>-->
+
+<!--                <module>webrtc</module>-->
+<!--                <module>wicket</module>-->
+<!--                <module>wildfly</module>-->
+<!--                <module>xml</module>-->
+<!--                <module>xstream</module>-->
 
 
             </modules>
